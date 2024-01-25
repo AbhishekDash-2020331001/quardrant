@@ -55,7 +55,7 @@ fun Greeting() {
                 stringResource(id = R.string.one_title),
                 stringResource(id = R.string.one_para),
                 Modifier.background(
-                    Color(0xFFEADDFF)
+                    Color(0xFFFFFF)
                 ).weight(1f)
             )
             parts(
